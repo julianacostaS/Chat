@@ -5,7 +5,7 @@ This is a project part of a course by the company 'Rocketseat'. It is a chat UI 
 [🔗 Click here to access it]()
 
 <br>
-
+![](assets/SmallPreview.gif)
 <p align="center">
   <img alt="App preview" src="" width="70%">
 </p>
