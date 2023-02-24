@@ -3,6 +3,7 @@
 This is a project part of a course by the company 'Rocketseat'. It is a chat UI built using HTML, CSS and JavaScript.
 
 [🔗 Click here to access it]()
+![Feb-24-2023 16-24-50](https://user-images.githubusercontent.com/49543157/221099175-771be5b8-56bd-400d-a502-918cd6ec9178.gif)
 
 <br>
 ![SmallPreview](https://user-images.githubusercontent.com/49543157/221098686-a5709ebb-33ad-458c-9bc1-e892cd0ed855.gif)
